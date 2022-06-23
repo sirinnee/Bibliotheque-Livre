@@ -1,0 +1,757 @@
+{
+  "livres": [
+    {
+      "id": 1,
+      "isbn": "9882348560755",
+      "titre": "HAVE FUN LEAR ENGLISH YEAR 4 BASIC EDUCATION",
+      "maisonedition": "Eyrolles",
+      "annedition": "2021",
+      "auteur": "CNP",
+      "prix": 2,
+      "qtestock": 10,
+      "categorie": "LISTES SCOLAIRES MINISTERE CNP",
+      "image": "6192202608000_1_m.jpg"
+    },
+    {
+      "id": 2,
+      "isbn": "9782401064218",
+      "titre": "annabac sujets & corrigés",
+      "maisonedition": "Eyrolles",
+      "annedition": "2020",
+      "auteur": "CNP",
+      "prix": 48,
+      "qtestock": 15,
+      "categorie": "LISTES SCOLAIRES MINISTERE CNP",
+      "image": "9782401064218_1_75.jpg"
+    },
+    {
+      "id": 3,
+      "isbn": "9782378560775",
+      "titre": "Thésée, sa vie nouvelle",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Litterature Francaise",
+      "prix": 48,
+      "qtestock": 5,
+      "categorie": "Les quatre finalistes du Goncourt 2020",
+      "image": "9782490155255_1_75.jpg"
+    },
+    {
+      "id": 4,
+      "isbn": "874589631475",
+      "titre": "La boîte à outils de la stratégie big data",
+      "maisonedition": "Eyrolles",
+      "annedition": "2020",
+      "auteur": "Romain Rissoan",
+      "prix": 78,
+      "qtestock": 5,
+      "categorie": "Bases de données",
+      "image": "9782100778980_internet_w290.jpg"
+    },
+    {
+      "id": 5,
+      "isbn": "85457858744",
+      "titre": "SQL Server 2019",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Jérôme Gabillaud",
+      "prix": 198,
+      "qtestock": 4,
+      "categorie": "Bases de données",
+      "image": "9782409031137_internet_w290.jpg"
+    },
+    {
+      "id": 6,
+      "isbn": "001212458774",
+      "titre": "React.js",
+      "maisonedition": "Eyrolles",
+      "annedition": "2019",
+      "auteur": "Eric Sarrion",
+      "prix": 98,
+      "qtestock": 10,
+      "categorie": "Developpement Web",
+      "image": "9782212677560_internet_w290.jpg"
+    },
+    {
+      "id": 7,
+      "isbn": "745210023657",
+      "titre": "Oracle 19c",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Olivier Heurtel",
+      "prix": 135,
+      "qtestock": 10,
+      "categorie": "Bases de données",
+      "image": "9782409028946_internet_w290.jpg"
+    },
+    {
+      "id": 8,
+      "isbn": "124563298789",
+      "titre": "React, Développez le Front End de vos applications web et mobiles avec JavaScript",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Sébastien CASTIEL",
+      "prix": 90,
+      "qtestock": 10,
+      "categorie": "Developpement Web",
+      "image": "reactweb.jpg"
+    },
+    {
+      "id": 9,
+      "isbn": "891236512475",
+      "titre": "TypeScript et React",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Sébastien CASTIEL",
+      "prix": 88,
+      "qtestock": 10,
+      "categorie": "Developpement Web",
+      "image": "tyupescriptreact.jpg"
+    },
+    {
+      "id": 10,
+      "isbn": "1241201201254",
+      "titre": "Progressive Web App",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Emmanuel DEMEY",
+      "prix": 54,
+      "qtestock": 5,
+      "categorie": "Developpement Web",
+      "image": "webapp.jpg"
+    },
+    {
+      "id": 11,
+      "isbn": "474741412354",
+      "titre": "Apprendre à développer avec JavaScript (3e édition",
+      "maisonedition": "ENI",
+      "annedition": "2018",
+      "auteur": "Christian VIGOUROUX",
+      "prix": 68,
+      "qtestock": 10,
+      "categorie": "Developpement Web",
+      "image": "javascript.jpg"
+    },
+    {
+      "id": 12,
+      "isbn": "78120369879",
+      "titre": "Java et Ionic",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Christian VIGOUROUX",
+      "prix": 55,
+      "qtestock": 10,
+      "categorie": "Developpement Web",
+      "image": "javaionic.jpg"
+    },
+    {
+      "id": 13,
+      "isbn": "111241147988",
+      "titre": "Conception d'algorithmes",
+      "maisonedition": "EYROLLES",
+      "annedition": "2021",
+      "auteur": "Marc Guyomard",
+      "prix": 143,
+      "qtestock": 5,
+      "categorie": "Algorithmique et programmation",
+      "image": "algorithme.jpg"
+    },
+    {
+      "id": 14,
+      "isbn": "3214141235874",
+      "titre": "Le machine learning avec Python",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Madjid Khichane",
+      "prix": 113,
+      "qtestock": 5,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782409031816_internet_w290.jpg"
+    },
+    {
+      "id": 15,
+      "isbn": "951357456852",
+      "titre": "WordPress",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Christophe Aubry",
+      "prix": 78,
+      "qtestock": 5,
+      "categorie": "Developpement Web",
+      "image": "9782409031878_internet_w290.jpg"
+    },
+    {
+      "id": 16,
+      "isbn": "753159852456",
+      "titre": "ASP.Net C#",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Brice-Arnaud Guérin",
+      "prix": 112,
+      "qtestock": 5,
+      "categorie": "Developpement Web",
+      "image": "9782409030451_internet_w290.jpg"
+    },
+    {
+      "id": 17,
+      "isbn": "159735412658",
+      "titre": "La transformation digitale des entreprises",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Thibaut Le Masne",
+      "prix": 101,
+      "qtestock": 5,
+      "categorie": "Gestion",
+      "image": "9782409031953_internet_w290.jpg"
+    },
+    {
+      "id": 18,
+      "isbn": "447441365965",
+      "titre": "Symfony 4",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Bilal Amarni",
+      "prix": 66,
+      "qtestock": 5,
+      "categorie": "Developpement Web",
+      "image": "9782409031588_internet_w290.jpg"
+    },
+    {
+      "id": 19,
+      "isbn": "333412658965",
+      "titre": "Mathématiques pour l'informatique",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Xavier Chanet",
+      "prix": 66,
+      "qtestock": 5,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782100828708_internet_w290.jpg"
+    },
+    {
+      "id": 20,
+      "isbn": "987998523547124",
+      "titre": "Le guide du C++ moderne",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Benoît Vittupier",
+      "prix": 78,
+      "qtestock": 10,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782822708814_internet_w290.jpg"
+    },
+    {
+      "id": 21,
+      "isbn": "25256587454",
+      "titre": "Python 3",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Amandine Velt",
+      "prix": 88,
+      "qtestock": 10,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782409031410_internet_w290.jpg"
+    },
+    {
+      "id": 22,
+      "isbn": "274741236588965",
+      "titre": "Scrum - Méthode agile",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "David Chaplin",
+      "prix": 114,
+      "qtestock": 5,
+      "categorie": "Conception",
+      "image": "9782409031311_internet_w290.jpg"
+    },
+    {
+      "id": 23,
+      "isbn": "7874120320012",
+      "titre": "Machine Learning et Deep Learning",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Patrick Wampé",
+      "prix": 87,
+      "qtestock": 5,
+      "categorie": "Bases de données",
+      "image": "9782409027604_internet_w290.jpg"
+    },
+    {
+      "id": 24,
+      "isbn": "5541288965477",
+      "titre": "Langage C",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Frédéric Drouillon",
+      "prix": 54,
+      "qtestock": 5,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782409031014_internet_w290.jpg"
+    },
+    {
+      "id": 25,
+      "isbn": "070987925412",
+      "titre": "WordPress pour les nuls",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Lisa Sabin-Wilson",
+      "prix": 72,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782412068762_internet_w290.jpg"
+    },
+    {
+      "id": 26,
+      "isbn": "212141413636",
+      "titre": "Programmation Python par la pratique",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Julien Guillod",
+      "prix": 92,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782100815142_internet_w290.jpg"
+    },
+    {
+      "id": 27,
+      "isbn": "698521000213",
+      "titre": "Clean C++20",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Stephan Roth",
+      "prix": 74,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9781484259481_internet_w290.jpg"
+    },
+    {
+      "id": 28,
+      "isbn": "4411778855256",
+      "titre": "PHP 8",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Olivier Heurtel",
+      "prix": 127,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782409030635_internet_w290.jpg"
+    },
+    {
+      "id": 29,
+      "isbn": "898885252411243",
+      "titre": "Informatique avec Python",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Jean-Noël Beury",
+      "prix": 57,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782100826063_internet_w290.jpg"
+    },
+    {
+      "id": 30,
+      "isbn": "030321201120004",
+      "titre": "Bases en algorithmique et en programmation",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Pascal Lienhardt",
+      "prix": 112,
+      "qtestock": 5,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782340047761_internet_w290.jpg"
+    },
+    {
+      "id": 31,
+      "isbn": "575956541234",
+      "titre": "L'intelligence artificielle",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Margaret A. Boden",
+      "prix": 102,
+      "qtestock": 5,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782759825790_internet_w290.jpg"
+    },
+    {
+      "id": 32,
+      "isbn": "05331420182429",
+      "titre": "Optez pour l'agilité",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Collectif Harvard",
+      "prix": 93,
+      "qtestock": 1,
+      "categorie": "Conception",
+      "image": "9782810431694_internet_w290.jpg"
+    },
+    {
+      "id": 33,
+      "isbn": "2021440141254587",
+      "titre": "L'intelligence artificielle, tu connais ?",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Rabah Attik",
+      "prix": 51,
+      "qtestock": 2,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782416001055_internet_w290.jpg"
+    },
+    {
+      "id": 34,
+      "isbn": "9524054598289587",
+      "titre": "Découverte du machine learning",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Samir Chafik",
+      "prix": 93,
+      "qtestock": 2,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782340047334_internet_w290.jpg"
+    },
+    {
+      "id": 35,
+      "isbn": "982895871174125",
+      "titre": "Langage Java Les fondamentaux",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Bernard Amade",
+      "prix": 75,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782822407076_internet_w290.jpg"
+    },
+    {
+      "id": 36,
+      "isbn": "9774074520860245",
+      "titre": "Vue.js",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Yoann Gauchard",
+      "prix": 72,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782409029424_internet_w290.jpg"
+    },
+    {
+      "id": 37,
+      "isbn": "13234918247458",
+      "titre": "L'intelligence artificielle au service de l'architecture",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Stanislas Chaillou",
+      "prix": 102,
+      "qtestock": 2,
+      "categorie": "Intelligence Artificielle",
+      "image": "9782281144857_internet_w290.jpg"
+    },
+    {
+      "id": 38,
+      "isbn": "55289587412545",
+      "titre": "HTML, XHTML & CSS pour les nuls",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Ed Tittel",
+      "prix": 72,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782412066874_internet_w290.jpg"
+    },
+    {
+      "id": 39,
+      "isbn": "41452145698742",
+      "titre": "Python pour le data scientist",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Emmanuel Jakobowicz",
+      "prix": 78,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782100812240_internet_w290.jpg"
+    },
+    {
+      "id": 40,
+      "isbn": "14132349588",
+      "titre": "Techniques de référencement web",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Mathieu Chartier",
+      "prix": 63,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782212679861_internet_w290.jpg"
+    },
+    {
+      "id": 41,
+      "isbn": "1724549658987",
+      "titre": "Django",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Sébastien Chazallet",
+      "prix": 77,
+      "qtestock": 5,
+      "categorie": "Developpement Web",
+      "image": "9782409029110_internet_w290.jpg"
+    },
+    {
+      "id": 42,
+      "isbn": "7785569874556",
+      "titre": "Kotlin",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Ludovic Roland",
+      "prix": 81,
+      "qtestock": 5,
+      "categorie": "Developpement Mobile",
+      "image": "9782409029158_internet_w290.jpg"
+    },
+    {
+      "id": 43,
+      "isbn": "1414212136568577",
+      "titre": "Docker",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Jean-Philippe Gouigoux",
+      "prix": 135,
+      "qtestock": 1,
+      "categorie": "Réseaux",
+      "image": "9782409028588_internet_w290.jpg"
+    },
+    {
+      "id": 44,
+      "isbn": "7463288258545478412",
+      "titre": "Java Spring",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Hervé Le Morvan",
+      "prix": 175,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782409028649_internet_w290.jpg"
+    },
+    {
+      "id": 45,
+      "isbn": "11284745268898",
+      "titre": "Conception d'algorithmes",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Marc Guyomard",
+      "prix": 128,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782416001031_internet_w290.jpg"
+    },
+    {
+      "id": 46,
+      "isbn": "95895874125478",
+      "titre": "Développement Fullstack",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Christophe Aubry",
+      "prix": 342,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782409028335_internet_w290.jpg"
+    },
+    {
+      "id": 47,
+      "isbn": "66998547741112",
+      "titre": "Angular et node.js",
+      "maisonedition": "ENI",
+      "annedition": "2020",
+      "auteur": "Pierre Pompidor",
+      "prix": 198,
+      "qtestock": 2,
+      "categorie": "Developpement Web",
+      "image": "9782409027864_internet_w290.jpg"
+    },
+    {
+      "id": 48,
+      "isbn": "142829801712",
+      "titre": "C++",
+      "maisonedition": "ENI",
+      "annedition": "2021",
+      "auteur": "Brice-Arnaud Guérin",
+      "prix": 79,
+      "qtestock": 2,
+      "categorie": "Algorithmique et programmation",
+      "image": "9782409030208_internet_w290.jpg"
+    }
+  ],
+  "auteur": [
+    {
+      "id": 1,
+      "nom": "CNP",
+      "email": "CNP@gmail.com"
+    },
+    {
+      "id": 2,
+      "nom": "Litterature Francaise",
+      "email": "Litterature_Francaise@gmail.com"
+    },
+    {
+      "id": 3,
+      "nom": "Romain Rissoan",
+      "email": "RomainRissoan@gmail.com"
+    },
+    {
+      "id": 4,
+      "nom": "Jérôme Gabillaud",
+      "email": "JeromeGabillaud@gmail.com"
+    },
+    {
+      "id": 5,
+      "nom": "Eric Sarrion",
+      "email": "EricSarrion@gmail.com"
+    },
+    {
+      "id": 6,
+      "nom": "Olivier Heurtel",
+      "email": "OlivierHeurtel@gmail.com"
+    },
+    {
+      "id": 7,
+      "nom": "Sébastien CASTIEL",
+      "email": "SebastienCASTIEL@gmail.com"
+    },
+    {
+      "id": 8,
+      "nom": "Emmanuel DEMEY",
+      "email": "EmmanuelDEMEY@gmail.com"
+    },
+    {
+      "id": 9,
+      "nom": "Christian VIGOUROUX",
+      "email": "ChristianVIGOUROUX@gmail.com"
+    },
+    {
+      "id": 10,
+      "nom": "Marc Guyomard",
+      "email": "MarcGuyomard@gmail.com"
+    },
+    {
+      "id": 11,
+      "nom": "Madjid Khichane",
+      "email": "MadjidKhichane@gmail.com"
+    },
+    {
+      "id": 12,
+      "nom": "Christophe Aubry",
+      "email": "ChristopheAubry@gmail.com"
+    },
+    {
+      "id": 13,
+      "nom": "Brice-Arnaud Guérin",
+      "email": "Brice-Arnaud-Guerin@gmail.com"
+    },
+    {
+      "id": 14,
+      "nom": "Thibaut Le Masne",
+      "email": "Thibaut-Le-Masne@gmail.com"
+    },
+    {
+      "id": 15,
+      "nom": "Xavier Chanet",
+      "email": "Xavier-Chanet@gmail.com"
+    },
+    {
+      "id": 16,
+      "nom": "Benoît Vittupier",
+      "email": "BenoitVittupier@gmail.com"
+    },
+    {
+      "id": 17,
+      "nom": "Amandine Velt",
+      "email": "AmandineVelt@gmail.com"
+    },
+    {
+      "id": 18,
+      "nom": "Amandine Velt",
+      "email": "AmandineVelt@gmail.com"
+    },
+    {
+      "id": 19,
+      "nom": "David Chaplin",
+      "email": "DavidChaplin@gmail.com"
+    },
+    {
+      "id": 20,
+      "nom": "Patrick Wampé",
+      "email": "PatrickWampe@gmail.com"
+    },
+    {
+      "id": 21,
+      "nom": "Frédéric Drouillon",
+      "email": "Frederic-Drouillon@gmail.com"
+    },
+    {
+      "id": 22,
+      "nom": "Lisa Sabin-Wilson",
+      "email": "Lisa-Sabin-Wilson@gmail.com"
+    },
+    {
+      "id": 23,
+      "nom": "Julien Guillod",
+      "email": "Julien-Guillod@gmail.com"
+    },
+    {
+      "id": 24,
+      "nom": "Stephan Roth",
+      "email": "Stephan-Roth@gmail.com"
+    },
+    {
+      "id": 25,
+      "nom": "Olivier Heurtel",
+      "email": "Olivier-Heurtel@gmail.com"
+    },
+    {
+      "id": 26,
+      "nom": "Jean-Noël Beury",
+      "email": "Jean-Noel-Beury@gmail.com"
+    },
+    {
+      "id": 27,
+      "nom": "Pascal Lienhardt",
+      "email": "Pascal-Lienhardt@gmail.com"
+    },
+    {
+      "id": 28,
+      "nom": "Margaret A. Boden",
+      "email": "Margaret-A-Boden@gmail.com"
+    },
+    {
+      "id": 29,
+      "nom": "Collectif Harvard",
+      "email": ""
+    },
+    {
+      "id": 30,
+      "nom": "Rabah Attik",
+      "email": ""
+    },
+    {
+      "id": 31,
+      "nom": "Samir Chafik",
+      "email": ""
+    },
+    {
+      "id": 32,
+      "nom": "Bernard Amade",
+      "email": ""
+    },
+    {
+      "id": 33,
+      "nom": "Yoann Gauchard",
+      "email": ""
+    },
+    {
+      "id": 34,
+      "nom": "Stanislas Chaillou",
+      "email": ""
+    },
+    {
+      "id": 35,
+      "nom": "Bilal Amarni",
+      "email": ""
+    }
+  ]
+}
